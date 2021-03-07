@@ -3,7 +3,7 @@ Podatke bomo črpali iz discord serverja, ki smo ga študentje ustvarili za meds
 #
 Podatki so v obliki sporočil, ki jih je poslal določen uporabnik, vsebujejo pa tudi podatke o tem koliko reakcij je dobilo sporočilo, kdaj je bilo sporočilo objavljeno, v katerem kanalu je bilo sporočilo objavljeno.
 
-## Vprasanja na katera zelimo odgovoriti
+## Vprašanja na katera želimo odgovoriti
 - Pri katerem predmetu se uporablja največ kletvic in kako se št. kletvic spreminja z bližanjem izpitov?
 - Kako se št. sporočil spreminja glede na obdobje?
 - Kako se št. sporočil spreminja na težo predmeta?
