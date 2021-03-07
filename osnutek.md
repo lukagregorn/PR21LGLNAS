@@ -1,5 +1,5 @@
 # Osnutek
-Podatke bomo črpali iz discord serverja, ki smo ga študentje ustvarili za medsebojno pomoč. Trenutno je na serverju več kot 1500 študentov, ki dnevno sodelujejo v pogovorih na različnih temah. Prvo sporočilo pa sega vse do leta 2017.
+Podatke bomo črpali iz discord serverja, ki smo ga študentje ustvarili za medsebojno pomoč. Trenutno je na serverju več kot 1500 študentov vključenih v enega od programov FRI, ki dnevno sodelujejo v pogovorih na različnih temah. Prvo sporočilo pa sega vse do leta 2017.
 #
 Podatki so v obliki sporočil, ki jih je poslal določen uporabnik, vsebujejo pa tudi podatke o tem koliko reakcij je dobilo sporočilo, kdaj je bilo sporočilo objavljeno, v katerem kanalu je bilo sporočilo objavljeno.
 
