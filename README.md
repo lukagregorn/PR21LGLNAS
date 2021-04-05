@@ -48,4 +48,4 @@ Po našem mnenju, se v drugem semestru bolj uporabljajo emoji-ji, zato ker ima D
 
 ![alt text](./Grafi/tretja.png?raw=true)
 
-![alt text](./Grafi/cetrta.png?raw=true)
+![alt text](./Grafi/četrta.png?raw=true)
