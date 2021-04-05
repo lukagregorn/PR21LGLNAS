@@ -13,6 +13,21 @@ Za to množico podatkov smo se odločili, saj se nam je zdelo, da bi bila ta tem
 
 Podatkovna množica je sestavljena iz več .JSON datotek (za vsak predmet svoja). Vsaka datoteka vsebuje sporočila, ki imajo sledeče atribute:
 
+Atribut | Opis      | Tip  |
+--------|-----------|-------
+id | zaporedna številka sporočila | Int
+type | tip sporočila | String
+timestamp | časovna značka, kdaj je bilo sporočilo poslano | Time stamp 
+timestampEdited | časovna značka, kdaj je bilo sporočilo popravljeno | Time stamp 
+callEndedTimestamp | časovna značka, kdaj je bil končan klic  | Time stamp 
+isPinned | indikator ali je sporočilo pripeto | Boolean
+content | vsebina sporočila | String
+author | avtor sporočila (id, ime) | Dictionary
+attachments | priponke sporočilu (id, url) | Dictionary
+embeds | vpeta sporočila (id, url) | Dictionary
+reactions | reakcije na sporočilo | Dictionary
+mentions | kdo vse je omenjen v sporočilu | Dictionary
+reference | referenca na drugo sporočilo | Dictionary
 
 
 ### UGOTOVITVE 
