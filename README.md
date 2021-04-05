@@ -43,4 +43,5 @@ https://github.com/lukagregorn/PR21LGLNAS/blob/main/Grafi/prva.png?raw=true
 
 
 Pri analizi reakcij na sporočila smo ugotovil, da se v drugem semestru reakcije oz. emjoi-ji pogosteje in večkrat uporabljajo. Če primerjamo uporabo največkrat uporabljenega emojia v prvem semestru, je ta 157 uporab, v drugem semestru pa kar 500 uporab. V obeh semestrih, se najpogosteje uporablja emoji :lekosalute:.
+
 Po našem mnenju, se v drugem semestru bolj uporabljajo emoji-ji, zato ker ima Discord takrat več uporabnikov kot v prvem semestru. Na začetku prvega semestra marsi kdo sploh ne ve za ta Discord server, ki ga imamo, zato ga tudi ne uporablja, medtem ko v drugem semestru, Discord server večina študentov že pozna in ga tudi uporablja.
