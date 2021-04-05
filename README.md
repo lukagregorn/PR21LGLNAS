@@ -4,7 +4,7 @@
 - Luka Nikolič
 - Andraž Štemberger
 
-#### PREDSTAVITEV MNOŽICE PODATKOV 
+### PREDSTAVITEV MNOŽICE PODATKOV 
 -----
 
 Naša množica podatkov, nad katero bomo izvajali raziskave je podatkovna baza sporočil iz Discord strežnika, ki smo ga študentje ustvarili za medsebojno pomoč. Trenutno je na serverju več kot 1500 študentov vključenih v enega od programov FRI, ki dnevno sodeluje v pogovorih na različnih temah. Prvo sporočilo sega vse do leta 2017. 
@@ -15,7 +15,7 @@ Podatkovna množica je sestavljena iz več .JSON datotek (za vsak predmet svoja)
 
 
 
-#### UGOTOVITVE 
+### UGOTOVITVE 
 ----- 
 
 Pri pregledovanju sporočil, smo ugotovili, da število sporočil je v povprečju močno prevladovalo v prvem letu uporabe serverja (študijsko leto 2017/18), že naslednje leto pa je padlo skoraj na polovico. V študijskem letu 2019/20 se je število sporočil povečalo pri predmetih iz drugega semestra, kar lahko pripisujemo pojavu koronavirusa. Študentje so morali poiskati drug vir komunikacije in očitno je bil Discord eden izmed njih.
