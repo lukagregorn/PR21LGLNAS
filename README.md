@@ -35,7 +35,7 @@ reference | referenca na drugo sporočilo | Dictionary
 
 Pri pregledovanju sporočil, smo ugotovili, da število sporočil je v povprečju močno prevladovalo v prvem letu uporabe serverja (študijsko leto 2017/18), že naslednje leto pa je padlo skoraj na polovico. V študijskem letu 2019/20 se je število sporočil povečalo pri predmetih iz drugega semestra, kar lahko pripisujemo pojavu koronavirusa. Študentje so morali poiskati drug vir komunikacije in očitno je bil Discord eden izmed njih.
 
-
+Grafi/prva.png
 
 
 Število pripetih sporočil, ki ponavadi predstavljajo snov, se je z leti precej zmanjšalo. To ponazarja, da veliko študentov še vedno uporablja snov preteklih let. Pri nekaterih predmetih se je z leti prenehalo dodajanje snovi. Iz tega lahko razberemo, da se tudi snov pri posameznih predmetih ne spreminja veliko.
